@@ -1,3 +1,5 @@
+<img width="618" height="324" alt="image" src="https://github.com/user-attachments/assets/3429629f-05a9-45cf-894d-b4582b0753d7" />
+
 **Energy Data Pipeline Automation**
 
 **Automating data workflows to deliver faster insights for energy analytics!!**
