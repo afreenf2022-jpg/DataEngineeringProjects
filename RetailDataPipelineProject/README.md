@@ -9,23 +9,21 @@ This project focuses on automating data processing and analysis of Walmart’s g
 
 **Tech Stack**
 
-Python (Pandas)
-
-PostgreSQL
-
+Python (Pandas)\
+PostgreSQL\
 Parquet & CSV processing
 
 **Workflow**
 
-Extract data from PostgreSQL and Parquet files
-Merge and clean datasets
-Transform data into analysis-ready format
+Extract data from PostgreSQL and Parquet files\
+Merge and clean datasets\
+Transform data into analysis-ready format\
 Perform monthly sales aggregation
 
 **Outcomes**
 
-Identified sales trends across months
-Analyzed the impact of holidays on demand
+Identified sales trends across months\
+Analyzed the impact of holidays on demand\
 Generated clean datasets for further analytics
 
 **Outputs**
