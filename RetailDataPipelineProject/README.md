@@ -1,5 +1,5 @@
 ![walmartecomm](https://github.com/user-attachments/assets/4406f1b9-c9f8-4492-986b-7381b782e932)
-**🛒 Walmart Sales Data Pipeline & Analysis**
+**🛒Walmart Sales Data Pipeline & Analysis**
 
 **Building a data pipeline to analyze the impact of holidays on Walmart’s sales.**
 
@@ -28,5 +28,5 @@ Generated clean datasets for further analytics
 
 **Outputs**
 
-clean_data.csv → Processed dataset
+clean_data.csv → Processed dataset\
 agg_data.csv → Monthly sales summary
